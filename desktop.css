@@ -1,0 +1,47 @@
+.header__logo{
+    width: 60px;
+    height: 60px;
+    margin: 10px 0 0 0;
+}
+
+.main-header{
+    margin-bottom: 90px;
+}
+.main-header h1{
+    font-size: 4rem;
+}
+
+.main-container{
+    display: flex;
+    justify-content: center;
+}
+
+.cards {
+    width: 400px;
+    height: 300px;
+    margin-right: 20px;
+}
+
+.cards-cicle__logo{
+    position: relative;
+    top: 10px;
+    left: 2%;
+}
+
+.cards-cicle__title{
+    font-size: 1.8rem;
+}
+
+.cards__label{
+    font-size: 1.6rem;
+}
+
+.cards-label_triangulo{
+    height: 30px;
+    margin: 30px auto 20px;
+    font-size: 1.6rem;
+}
+
+.cards__inputs{
+    margin-top: 50px;
+}
